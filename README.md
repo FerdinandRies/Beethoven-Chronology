@@ -28,6 +28,7 @@ Most Beethoven timelines on the web repeat dates without saying where they come 
 | `CAEYERS2020` | Jan Caeyers, *Beethoven: A Life* (University of California Press, 2020) — the biographical baseline for this project |
 | `THAYER-FORBES` | Alexander Wheelock Thayer, *Thayer's Life of Beethoven*, rev. Elliot Forbes (Princeton University Press, 1964) |
 | `BRANDENBURG` | *Beethoven: Briefwechsel — Gesamtausgabe*, ed. Sieghard Brandenburg (Henle, 1996–1998) — the complete letters |
+| `KINSKY-HALM` | Georg Kinsky, completed by Hans Halm, *Das Werk Beethovens: Thematisch-bibliographisches Verzeichnis* (Henle, 1955) — composition and first-edition years of the works entries |
 | Primary records | Baptismal and death registers, autograph documents, concert announcements — named in full in the `source` field |
 
 ## Editorial rules
@@ -36,7 +37,7 @@ Most Beethoven timelines on the web repeat dates without saying where they come 
 2. **Precision is declared, never implied.** A date known only to the year is stored as a year, not padded to a plausible-looking day.
 3. **Disputes are recorded, not resolved by silence.** Where scholarship disagrees — or where a famous anecdote lacks documentary support — the `notes` field says so explicitly (see, for example, the 1787 Mozart meeting and the "Immortal Beloved" letter, whose addressee the dataset deliberately does not identify).
 
-The current release (v0.2) covers **192 entries** from the grandfather's appointment as Bonn Kapellmeister (1761) to the transfer of the remains to Vienna's Central Cemetery (1888). The bulk of the entries are drawn from a systematic pass through Caeyers (2020), each cited to its chapter; entries resting on primary documents are marked as such. Coverage will keep expanding; the rules above will not change.
+The current release (v0.3) covers **206 entries** from the grandfather's appointment as Bonn Kapellmeister (1761) to the transfer of the remains to Vienna's Central Cemetery (1888). The bulk of the entries are drawn from a systematic pass through Caeyers (2020), each cited to its chapter; entries resting on primary documents are marked as such. Coverage will keep expanding; the rules above will not change.
 
 ## Quick start
 

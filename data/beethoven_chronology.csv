@@ -47,6 +47,7 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1796-07,,month,Beethoven returned to Vienna and fell seriously ill several days after his arrival.,Vienna,life,,secondary,CAEYERS2020 (ch. 14),"Source accounts differ on the cause, with Weissenbach diagnosing typhus and later linking it to irreversible hearing loss"
 1796-11-11,,day,Beethoven performed the First Piano Concerto in Pressburg.,Pressburg,performance,Op. 15,secondary,CAEYERS2020 (ch. 16),
 1797,,year,Beethoven first noticed hearing problems that later spread from his right ear to his left ear.,Vienna,life,,secondary,CAEYERS2020 (ch. 22),
+1797,1798,year,"Piano Sonata in C minor (""Pathétique"") composed",Vienna,work,Op. 13,secondary,KINSKY-HALM,"Published in Vienna in 1799, dedicated to Prince Lichnowsky."
 1797-02,,month,Beethoven's song Adelaide was published.,Vienna,work,Op. 46,secondary,CAEYERS2020 (ch. 16),
 1797-04-06,,day,Beethoven premiered his Quintet for Piano and Winds at a concert given by Schuppanzigh.,Vienna,performance,Op. 16,secondary,CAEYERS2020 (ch. 16),
 1798,,year,Prince Lobkowitz commissioned Beethoven to compose a set of six string quartets.,Vienna,work,Op. 18,secondary,CAEYERS2020 (ch. 16),Text places the commission in the autumn of 1798
@@ -59,6 +60,7 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1800-10,,month,Beethoven delivered the full set of six string quartets to Lobkowitz.,Vienna,work,Op. 18,secondary,CAEYERS2020 (ch. 17),
 1800-12-09,,day,A concert in honour of the Duchess of Giovane featured the Violin Sonata in E-flat and several of the opus 18 string quartets.,Vienna,performance,Op. 12; Op. 18,secondary,CAEYERS2020 (ch. 18),
 1801,,year,Beethoven took ten-year-old Carl Czerny on as a pupil after an audition in Beethoven's apartment.,Vienna,life,,secondary,CAEYERS2020 (ch. 21),
+1801,,year,Piano Concertos No. 1 and No. 2 published (Vienna and Leipzig respectively),Vienna; Leipzig,work,Op. 15; Op. 19,secondary,KINSKY-HALM,
 1801-01-21,,day,Beethoven and Giovanni Punto appeared together at a benefit concert organized by soprano Christine Gerhardi.,Vienna,performance,Op. 17,secondary,CAEYERS2020 (ch. 19),
 1801-01-30,,day,Beethoven and Magdalena Willmann gave a concert together in the Redoutensaal.,Vienna,performance,,secondary,CAEYERS2020 (ch. 15),
 1801-03-28,,day,Beethoven's ballet The Creatures of Prometheus was premiered.,Vienna,performance,,secondary,CAEYERS2020 (ch. 19),"Originally scheduled for March 21, 1801 and postponed by one week"
@@ -66,10 +68,12 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1801-07-01,,day,Beethoven wrote to Amenda imploring him never to show the earlier version of the Quartet in F Major to anyone.,Vienna,life,"Op. 18, no. 1",secondary,CAEYERS2020 (ch. 17),
 1801-11-16,,day,Letter to Franz Wegeler: earliest written testimony of his hearing loss and of an 'enchanting girl' he loves,Vienna,life,,primary,BRANDENBURG (Beethoven letter of 16 Nov 1801),"Caeyers identifies the girl as Giulietta Guicciardi, Beethoven's piano pupil and the dedicatee of Op. 27 No. 2."
 1802,,year,Friedrich Rochlitz's initial effort to force a libretto on Beethoven ended in failure.,Vienna,life,,secondary,CAEYERS2020 (ch. 20),
+1802,,year,"Piano Sonata in D minor (""Tempest"") composed",Vienna,work,Op. 31 No. 2,secondary,KINSKY-HALM,Published in Zurich in 1803.
 1802-04-22,,day,Beethoven wrote to Breitkopf & Härtel announcing his retreat and stating that his brother would manage his affairs.,Vienna,life,,secondary,CAEYERS2020 (ch. 22),
 1802-04-23,,day,Beethoven left for Heiligenstadt and took lodgings in a house on Herrengasse.,Heiligenstadt,travel,,secondary,CAEYERS2020 (ch. 22),
 1802-10-06,,day,"Heiligenstadt Testament written (signed 6 October, with a postscript of 10 October)",Heiligenstadt (Vienna),life,,primary,"Autograph, Heiligenstadt Testament; BRANDENBURG",
 1802-11-09,,day,Beethoven receives word that Artaria is preparing an unauthorized edition of the String Quintet already sold to Breitkopf & Härtel,Vienna,life,Op. 29,secondary,CAEYERS2020 (ch. 25),Artaria had obtained a copy of the score before Count Fries's six-month exclusivity period had elapsed
+1803,,year,"Edinburgh publisher George Thomson first approaches Beethoven, proposing sonatas on Scottish themes; Beethoven rejects the terms",Edinburgh; Vienna,life,,secondary,CAEYERS2020 (ch. 41),Contact dates to the summer of 1803.
 1803,,year,Sébastien Erard gifts Beethoven a grand piano,Paris,life,,secondary,CAEYERS2020 (ch. 28),Beethoven believed Rodolphe Kreutzer had facilitated the gesture
 1803-01,,month,"Schikaneder appoints Beethoven ""Composer at Theater an der Wien"", with lodgings in the theater complex and an obligation to compose at least one new opera each year",Vienna,life,,secondary,CAEYERS2020 (ch. 26),
 1803-01-22,,day,"Beethoven publishes a notice in the Wiener Zeitung declaring Artaria's edition of the String Quintet unauthorized and full of errors, and Breitkopf & Härtel's edition the authorized one",Vienna,life,Op. 29,secondary,CAEYERS2020 (ch. 25),
@@ -92,6 +96,7 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1806-03-29,,day,"First performance of the revised Leonore (Leonore II), with cuts and restructuring by Stephan Breuning and a new overture",Vienna,performance,Op. 72,secondary,CAEYERS2020 (ch. 31),"The theater treated it as a revival; a dispute with Braun over compensation ended further performances after the second show on April 10, 1806"
 1806-05-25,,day,Kaspar Karl van Beethoven marries Johanna Reiss,Vienna,life,,secondary,CAEYERS2020 (ch. 32),His marriage ended his four years as Beethoven's secretary and manager of his affairs
 1806-05-26,,day,Beethoven resumes work on the three string quartets begun in the summer of 1804,Vienna,work,Op. 59,secondary,CAEYERS2020 (ch. 32),The date is marked in the autograph
+1806-07,,month,"Beethoven agrees, in a postscript to his reply to Thomson, to arrange Scottish folksongs for him",Vienna,work,,secondary,CAEYERS2020 (ch. 41),The start of a folksong collaboration that lasted over a decade; Thomson had the melodies arranged without supplying the lyrics until 1813.
 1806-09,,month,"Beethoven meets Count Franz von Oppersdorff at Oberlogau, where the count's orchestra performs the Second Symphony and he commissions two new symphonies",Oberlogau,life,,secondary,CAEYERS2020 (ch. 32),Beethoven composed one completely new symphony (the Fourth) and never delivered the second
 1806-10,,month,"The Third Symphony is published in Vienna bearing the title Sinfonia Eroica, dedicated to Prince Lobkowitz",Vienna,work,Op. 55,secondary,CAEYERS2020 (ch. 28),All references to Napoleon had been removed; the title page adds that the work was composed to celebrate the memory of a great man
 1806-11,,month,The three Razumovsky Quartets are completed,Vienna,work,Op. 59,secondary,CAEYERS2020 (ch. 32),First airings followed around New Year's Day 1807
@@ -106,16 +111,19 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1808-11-01,,day,Beethoven writes to Count Oppersdorff that he has been offered the post of Kapellmeister in Kassel,Vienna,life,,secondary,CAEYERS2020 (ch. 33),"Reichardt's later claim to have made the offer himself, and to have advised against it, was publicly denied by Beethoven"
 1808-12-22,,day,"Akademie at the Theater an der Wien: premieres of Symphonies No. 5 and No. 6, the Choral Fantasy, and the Vienna premiere of Piano Concerto No. 4",Vienna,performance,Op. 67; Op. 68; Op. 80; Op. 58,secondary,CAEYERS2020,
 1809,,year,Fifth Piano Concerto completed,Vienna,work,Op. 73,secondary,CAEYERS2020 (ch. 34),Drafted before the war and completed in the summer of 1809
+1809,,year,Twenty-six Welsh Songs arranged for George Thomson,Vienna,work,WoO 155,secondary,KINSKY-HALM,Published in London and Edinburgh in 1817.
 1809-01-07,,day,Beethoven writes to Breitkopf & Härtel claiming he has officially accepted the Kassel Kapellmeister offer,Vienna,life,,secondary,CAEYERS2020 (ch. 33),Meanwhile Gleichenstein used the Kassel contract as leverage to negotiate terms keeping Beethoven in Vienna
 1809-03-01,,day,"Annuity agreement signed by Archduke Rudolph, Prince Kinsky and Prince Lobkowitz to keep Beethoven in Vienna",Vienna,life,,primary,"Annuity contract, 1 March 1809; CAEYERS2020",
 1809-05-04,,day,Beethoven presents Das Lebewohl for piano to Archduke Rudolph as a parting gift on the imperial family's flight from Vienna,Vienna,work,Op. 81a,secondary,CAEYERS2020 (ch. 35),
 1809-05-11,,day,"During the French bombardment of Vienna on the night of May 11, Beethoven takes refuge in the cellar of his brother Kaspar Karl's house on Rauhensteingasse",Vienna,life,,secondary,CAEYERS2020 (ch. 33),He sat for hours with his head and oversensitive ears buried in a pile of cushions
 1810,,year,String Quartet in F minor composed,Vienna,work,Op. 95,secondary,CAEYERS2020 (ch. 39),Composed in the autumn of 1810; its public debut came only in 1814 and publication in 1816
+1810,1812,year,Twenty-five Irish Songs arranged for George Thomson,Vienna,work,WoO 152,secondary,KINSKY-HALM,"Published in London and Edinburgh in 1814. A first batch of arrangements sent in 1810 was lost in transit under the continental blockade and had to be redone (Caeyers, ch. 41)."
 1810-01,,month,"Beethoven adds Abwesenheit and Das Wiedersehn on Archduke Rudolph's return, completing the sonata Les Adieux",Vienna,work,Op. 81a,secondary,CAEYERS2020 (ch. 35),
 1810-06-15,,day,"Beethoven's incidental music to Goethe's Egmont is first performed, at the play's fourth performance",Vienna,performance,,secondary,CAEYERS2020 (ch. 36),"The play itself had premiered on 24 May 1810 without the music, which was finished late"
 1811-08,,month,Beethoven travels to Teplitz for the first spa stay of his life,Teplitz,travel,,secondary,CAEYERS2020 (ch. 36),The Pest theater commission arrived the day before his scheduled departure on 1 August
 1811-09-13,,day,Beethoven announces that he has sent off the completed scores of King Stephan and The Ruins of Athens for the opening of the new theater in Pest,Vienna,work,Op. 113; Op. 117,secondary,CAEYERS2020 (ch. 36),
 1811-11,,month,Fifth Piano Concerto premiered by Friedrich Schneider at the Gewandhaus,Leipzig,performance,Op. 73,secondary,CAEYERS2020 (ch. 35),Beethoven never performed the concerto publicly himself
+1812,1813,year,Twelve Irish Songs arranged for George Thomson,Vienna,work,WoO 154,secondary,KINSKY-HALM,"Published in London and Edinburgh in 1816, without nos. 2 and 7."
 1812-02,,month,Viennese premiere of the Fifth Piano Concerto with Carl Czerny as soloist,Vienna,performance,Op. 73,secondary,CAEYERS2020 (ch. 35),"Reception was lukewarm owing to the society-event circumstances, not the soloist or work"
 1812-02-09,,day,King Stephan and The Ruins of Athens premiered at the opening of the new imperial theater in Pest,Pest,performance,Op. 113; Op. 117,secondary,CAEYERS2020 (ch. 36),"The premiere was postponed from 4 October 1811 because of incomplete construction work, not any delay by Beethoven"
 1812-07-03,,day,Beethoven meets Prince Kinsky in Prague and settles the terms of payment under the annuity decree,Prague,life,,secondary,CAEYERS2020 (ch. 37),
@@ -136,12 +144,17 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1814-05-23,,day,"Premiere of Fidelio in its final version, Kaerntnertortheater",Vienna,performance,Op. 72,secondary,CAEYERS2020,
 1814-07-18,,day,Beethoven gives his own benefit performance of Fidelio,Vienna,performance,,secondary,CAEYERS2020 (ch. 42),
 1814-11-29,,day,"Congress Akademie in the Redoutensaal before the assembled dignitaries, with the premiere of Der glorreiche Augenblick alongside the Seventh Symphony and Wellington's Victory",Vienna,performance,Op. 136,secondary,CAEYERS2020 (ch. 43),The concert had been rescheduled three times; a repeat without the monarchs three days later drew poorly and a third concert was cancelled
+1815,,year,Cello Sonatas No. 4 and No. 5 composed,Vienna,work,Op. 102,secondary,KINSKY-HALM,"Published in Bonn in 1817, dedicated to Countess Marie Erdödy."
 1815,,year,"Meeresstille und glückliche Fahrt, a setting of two Goethe poems, composed",Vienna,work,Op. 112,secondary,CAEYERS2020 (ch. 43),Composed on the heels of the Congress occasional works in 1815
+1815,1819,year,Twelve Scottish Songs for George Thomson composed,Vienna,work,WoO 156,secondary,KINSKY-HALM,Published in London and Edinburgh in 1822.
+1815,1820,year,Twelve Songs of Various Nationalities for George Thomson composed,Vienna,work,WoO 157,secondary,KINSKY-HALM,Selections published in London and Edinburgh from 1816.
+1815,1818,year,Twenty-five Scottish Songs for George Thomson composed,Vienna,work,Op. 108,secondary,KINSKY-HALM,Published in London and Edinburgh in 1818.
 1815-02-10,,day,"Wellington's Victory is performed at the Theatre Royal, Drury Lane, from the score Beethoven had sent to the Prince Regent",London,reception,Op. 91,secondary,CAEYERS2020 (ch. 40),The Prince Regent never replied to Beethoven or reimbursed the cost of the score
 1815-11-15,,day,Death of his brother Kaspar Karl; the guardianship dispute over Karl begins,Vienna,life,,secondary,CAEYERS2020,
 1815-11-16,,day,Beethoven is named an honorary citizen of Vienna,Vienna,life,,secondary,CAEYERS2020 (ch. 40),
 1816,,year,Beethoven completes the Piano Sonata in A Major,Vienna,work,Op. 101,secondary,CAEYERS2020 (ch. 46),
 1816,,year,Beethoven completes the song cycle An die ferne Geliebte,Vienna,work,Op. 98,secondary,CAEYERS2020 (ch. 45),"Shortly before publication he altered the title from ""die entfernte Geliebte"" to ""die ferne Geliebte"""
+1816,1817,year,Twenty-three Songs of Various Nationalities composed,Vienna,work,WoO 158a,secondary,KINSKY-HALM,
 1816-01-09,,day,The Landgericht rules that Johanna van Beethoven be denied all custody of her son Karl,Vienna,life,,secondary,CAEYERS2020 (ch. 44),Beethoven signed the official guardianship documents ten days later; the court had initially awarded Beethoven and Johanna dual custody a week after Kaspar Karl's death
 1816-02,,month,Steiner publishes Wellington's Victory in seven different versions simultaneously,Vienna,work,Op. 91,secondary,CAEYERS2020 (ch. 40),Beethoven's first orchestral score published together with its orchestral parts
 1816-10,1817-06,month,A catarrh infection develops into chronic bronchitis that plagues Beethoven until June 1817,Vienna,life,,secondary,CAEYERS2020 (ch. 46),The text notes it is unclear whether pneumonia was present from the beginning
@@ -157,6 +170,7 @@ date,date_end,precision,event,place,category,works,source_type,source,notes
 1819-09,,month,The Hammerklavier Sonata is published by Artaria in Vienna,Vienna,work,Op. 106,secondary,CAEYERS2020 (ch. 49),"An English edition followed in London two months later, split into two parts at Beethoven's own suggestion"
 1820-04-08,,day,The appellate court rules in favor of Beethoven and Karl Peters as Karl's guardians,Vienna,life,,secondary,CAEYERS2020 (ch. 44),"Johanna's two further appeals, one to the emperor himself, failed"
 1821,,year,Beethoven is bedridden for six weeks with a rheumatic episode in the spring and incapacitated for a further six weeks by jaundice in the summer,Vienna,life,,secondary,CAEYERS2020 (ch. 51),The text suggests the jaundice may have been an early symptom of a chronic liver condition
+1821-03-31,,day,"Josephine Brunsvik, by then Countess Stackelberg, dies in poverty",Vienna,life,,secondary,CAEYERS2020 (ch. 45),"Caeyers: she died ""forlorn and penniless""."
 1821-12,,month,Beethoven completes the Piano Sonata in A-flat Major around Christmas,Vienna,work,Op. 110,secondary,CAEYERS2020 (ch. 51),
 1822-02,,month,The Piano Sonata in C Minor is ready for delivery to the publisher Schlesinger by mid-February,Vienna,work,Op. 111,secondary,CAEYERS2020 (ch. 51),
 1822-04,,month,Rossini visits Beethoven at his lodgings on Landstrasser Hauptstrasse,Vienna,life,,secondary,CAEYERS2020 (ch. 53),"The account derives from Rossini's later recollections to Wagner, recorded by Edmond Michotte"
