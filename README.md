@@ -60,4 +60,4 @@ Contributions are welcome — corrections with better sources most of all. Pleas
 
 ## Maintainer
 
-Maintained by [FerdinandRies](https://github.com/FerdinandRies). The project grows out of ongoing Beethoven scholarship monitoring and source criticism; issues and pull requests are reviewed against the editorial rules above.
+Maintained by [Ferdinand Ries](https://github.com/FerdinandRies). The project grows out of ongoing Beethoven scholarship monitoring and source criticism; issues and pull requests are reviewed against the editorial rules above.
