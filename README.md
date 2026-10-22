@@ -55,8 +55,8 @@ Contributions are welcome — corrections with better sources most of all. Pleas
 
 ## Licence
 
-- Code (including the example scripts): MIT Licence — see [LICENSE](LICENSE).
-- Dataset (`data/`): CC BY 4.0 — see [DATA_LICENSE.md](DATA_LICENSE.md). Attribution: "Beethoven Chronology dataset, FerdinandRies/beethoven-chronology".
+- Code (including the example scripts): AGPL-3.0-only — see [LICENSE](LICENSE).
+- Dataset (`data/`): CC BY-SA 4.0 — see [DATA_LICENSE.md](DATA_LICENSE.md). Attribution: "Beethoven Chronology dataset, FerdinandRies/beethoven-chronology".
 
 ## Maintainer
 
